@@ -117,24 +117,9 @@ analytics:
 # Site Footer
 footer:
   links:
-    - label: "<img src='/assets/images/iac.png' alt='Instituto de Astrofísica de Canarias' style='height:30px;'>"
+    - text: "<img src='/assets/images/iac.png' alt='Instituto de Astrofísica de Canarias' style='height:30px;'>"
       url: "https://www.iac.es/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-  since: "2013"
+  since: "2025"
 
 
 # Reading Files
