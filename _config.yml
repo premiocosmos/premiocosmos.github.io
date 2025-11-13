@@ -117,7 +117,8 @@ analytics:
 # Site Footer
 footer:
   links:
-    - text: "<img src='/assets/images/iac.png' alt='Instituto de Astrofísica de Canarias' style='height:30px;'>"
+    - label: "Instituto de Astrofísica de Canarias"
+      icon: "iac"
       url: "https://www.iac.es/"
   since: "2025"
 
